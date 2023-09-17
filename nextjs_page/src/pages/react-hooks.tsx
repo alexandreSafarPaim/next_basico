@@ -15,7 +15,7 @@ function ReackHooks() {
       title="React Hooks"
       links={[
         { href: "/api-interaction", text: "Voltar" },
-        { href: "/", text: "Vem mais por aí..." },
+        { href: "/dom-functions", text: "Funções na DOM" },
       ]}
     >
       <h1 className="text-4xl font-bold my-4">React Hooks</h1>
