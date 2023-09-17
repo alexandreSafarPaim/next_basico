@@ -2,7 +2,7 @@
 import { UseCallback } from "@/components/hooks/UseCallback";
 import { UseContext } from "@/components/hooks/UseContext";
 import { UseEffect } from "@/components/hooks/UseEffect";
-import { UseMemo } from "@/components/hooks/UseMEmo";
+import { UseMemo } from "@/components/hooks/UseMemo";
 import { UseRef } from "@/components/hooks/UseRef";
 import { UseState } from "@/components/hooks/UseState";
 import { Layout } from "@/components/layout/Layout";
